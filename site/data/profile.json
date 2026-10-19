@@ -1,0 +1,12 @@
+{
+  "name": "曹逸波",
+  "role": "前端开发学习者 · 数字体验设计",
+  "tagline": "把复杂的想法，做成清晰、好用的界面。",
+  "bio": "专注于网页交互、浏览器插件与可视化体验，喜欢从真实问题出发，把产品做得更简单。",
+  "location": "中国 · 杭州",
+  "email": "hello@example.com",
+  "avatar": "assets/avatar.svg",
+  "resume": "assets/resume.pdf",
+  "skills": [{"name":"HTML / CSS","level":90,"type":"基础能力"},{"name":"JavaScript","level":82,"type":"核心技能"},{"name":"浏览器插件","level":78,"type":"实践方向"},{"name":"产品原型","level":75,"type":"设计思维"}],
+  "projects": [{"title":"Image Basket 图片收集器","description":"一键扫描当前网页图片，支持预览、筛选与批量下载。","stack":"Manifest V3 · JavaScript","link":""},{"title":"城市漫游路线策划器","description":"将城市兴趣点整理成一条可执行、可分享的旅行路线。","stack":"HTML · CSS · 高德地图","link":""},{"title":"Focus Line 阅读辅助线","description":"让长文章阅读更专注的轻量浏览器扩展。","stack":"Chrome Extension · UI Design","link":""}]
+}
